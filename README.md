@@ -49,9 +49,9 @@ oc expose springboot-sample-app --hostname=www.example.com
 Released under the Apache License 2.0. See the [LICENSE](https://github.com/codecentric/springboot-sample-app/blob/master/LICENSE) file.
 
 Endpoints: -
-/ticket POST Create a ticket
-/ticket GET Return list of tickets
-/ticket/{id} GET Get individual ticket
-/ticket/{id} PUT Amend ticket lines
-/status/{id} PUT Retrieve status of ticket
-Postman Collection is also uploaded in drive
+* /ticket POST Create a ticket
+* /ticket GET Return list of tickets
+* /ticket/{id} GET Get individual ticket
+* /ticket/{id} PUT Amend ticket lines
+* /status/{id} PUT Retrieve status of ticket
+* Postman Collection is also uploaded in drive
